@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "655a68f269141298246c9b02"
+  },
+  "Grupo_A": "Catar Ecuador Senegal Paises bajos"
+},
+{
+  "_id": {
+    "$oid": "655a696b69141298246c9b04"
+  },
+  "Grupo_B": "Inglaterra, Republica islamica, Estados unidos, Gales"
+},
+{
+  "_id": {
+    "$oid": "655a69b569141298246c9b06"
+  },
+  "Grupo_C": "Argentina, Arabia saudita, Mexico, Polonia"
+},
+{
+  "_id": {
+    "$oid": "655a6a0469141298246c9b08"
+  },
+  "Grupo_D": "Francia, Australia, Dinamarca, Tunez"
+},
+{
+  "_id": {
+    "$oid": "655a6a3769141298246c9b0a"
+  },
+  "Grupo_E": "España, Costa rica, Alemania, Japon"
+},
+{
+  "_id": {
+    "$oid": "655a6a8469141298246c9b0c"
+  },
+  "Grupo_F": "Belgica, Canada, Morruecos, Croacia"
+},
+{
+  "_id": {
+    "$oid": "655a6ac969141298246c9b0e"
+  },
+  "Grupo_G": "Brasil, Serbia, Suiza, Camerun"
+},
+{
+  "_id": {
+    "$oid": "655a6b0269141298246c9b10"
+  },
+  "Grupo_H": "Portugal, Ghana, Uruguay, Republica de corea"
+}]
