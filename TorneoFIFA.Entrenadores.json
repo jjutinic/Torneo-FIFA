@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655a76c969141298246c9b24"
+  },
+  "Equipo": "Portugal",
+  "Entrenador": "Manuel Fernandez"
+},
+{
+  "_id": {
+    "$oid": "655a76c969141298246c9b25"
+  },
+  "Equipo": "Francia",
+  "Entrenador": "Didier Deschamps"
+},
+{
+  "_id": {
+    "$oid": "655a76c969141298246c9b26"
+  },
+  "Equipo": "Alemania",
+  "Entrenador": "Hans Dieter"
+},
+{
+  "_id": {
+    "$oid": "655a76c969141298246c9b27"
+  },
+  "Equipo": "Belgica",
+  "Entrenador": "Roberto Martinez"
+},
+{
+  "_id": {
+    "$oid": "655a76c969141298246c9b28"
+  },
+  "Equipo": "Argentina",
+  "Entrenador": "Lionel Scaloni"
+}]
