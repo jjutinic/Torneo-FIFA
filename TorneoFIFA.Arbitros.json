@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655a783769141298246c9b2b"
+  },
+  "Nombre": "Szymon Marciniak",
+  "Pais": "Polonia"
+},
+{
+  "_id": {
+    "$oid": "655a783769141298246c9b2c"
+  },
+  "Nombre": "Michael Oliver",
+  "Pais": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "655a783769141298246c9b2d"
+  },
+  "Nombre": "Facundo Tello",
+  "Pais": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "655a783769141298246c9b2e"
+  },
+  "Nombre": "Yosshimi Yamashita",
+  "Pais": "Japon"
+},
+{
+  "_id": {
+    "$oid": "655a783769141298246c9b2f"
+  },
+  "Nombre": "Raphael Claus",
+  "Pais": "Brasil"
+}]
