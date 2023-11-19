@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "655a847369141298246c9b39"
+  },
+  "Equipo": "Portugal ",
+  "Partidos_jugados": 1,
+  "Ganados": 1,
+  "Perdidos": 0,
+  "Empatados": 0,
+  "Diferencia_goles": 1,
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "655a847369141298246c9b3a"
+  },
+  "Equipo": "Francia",
+  "Partidos_jugados": 1,
+  "Ganados": 0,
+  "Perdidos": 1,
+  "Empatados": 0,
+  "Diferencia_goles": "-1",
+  "Puntos": 0
+},
+{
+  "_id": {
+    "$oid": "655a847369141298246c9b3b"
+  },
+  "Equipo": "Alemania",
+  "Partidos_jugados": "1",
+  "Ganados": 0,
+  "Perdidos": 0,
+  "Empatados": 1,
+  "Diferencia_goles": 0,
+  "Puntos": 1
+},
+{
+  "_id": {
+    "$oid": "655a847369141298246c9b3c"
+  },
+  "Equipo": "Bélgica",
+  "Partidos_jugados": 1,
+  "Ganados": 1,
+  "Perdidos": 0,
+  "Empatados": 0,
+  "Diferencia_goles": 3,
+  "Puntos": 3
+},
+{
+  "_id": {
+    "$oid": "655a847369141298246c9b3d"
+  },
+  "Equipo": "Argentina ",
+  "Partidos_jugados": "1",
+  "Ganados": 0,
+  "Perdidos": 1,
+  "Empatados": 0,
+  "Diferencia_goles": "-1",
+  "Puntos": 0
+}]
