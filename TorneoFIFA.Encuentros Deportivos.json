@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "655a7bcf69141298246c9b32"
+  },
+  "Fase": "Primera",
+  "Grupo": "C",
+  "Encuentro": "Argentina VS Arabia saudi",
+  "Fecha": "22/11/2022",
+  "Resultado": "1-2"
+},
+{
+  "_id": {
+    "$oid": "655a7bcf69141298246c9b33"
+  },
+  "Fase": "Primer",
+  "Grupo": "F",
+  "Encuentro": "Belgica VS Canada",
+  "Fecha": "22/11/2022",
+  "Resultado": "1-0"
+},
+{
+  "_id": {
+    "$oid": "655a7bcf69141298246c9b34"
+  },
+  "Fase": "Primer",
+  "Grupo": "H",
+  "Encuentro": "Portugal VS Ghana",
+  "Fecha": "24/11/2022 ",
+  "Resultado": "3-2"
+},
+{
+  "_id": {
+    "$oid": "655a7bcf69141298246c9b35"
+  },
+  "Fase": "Primer",
+  "Grupo": "E",
+  "Encuentro": "España VS Alemania ",
+  "Fecha": " 27/11/2022 ",
+  "Resultado": "1-1"
+},
+{
+  "_id": {
+    "$oid": "655a7bcf69141298246c9b36"
+  },
+  "Fase": "Primer",
+  "Grupo": "D",
+  "Encuentro": "Tunez VS Francia",
+  "Fecha": "30/11/2022 ",
+  "Resultado": "1-0"
+}]
