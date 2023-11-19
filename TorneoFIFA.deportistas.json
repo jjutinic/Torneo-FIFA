@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "655a63e969141298246c9aff"
+  },
+  "nombre": "Lionel Messi",
+  "posicion": "Delantero",
+  "equipo": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "655a6d1069141298246c9b16"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "posicion": "Delantero",
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "655a6df869141298246c9b18"
+  },
+  "nombre": " Kylian Mbappe",
+  "posicion": "Delantero",
+  "equipo": "Paris"
+},
+{
+  "_id": {
+    "$oid": "655a6e9369141298246c9b1a"
+  },
+  "nombre": "Erling Haaland",
+  "posicion": "Delantero",
+  "equipo": "Reino unido"
+},
+{
+  "_id": {
+    "$oid": "655a72c769141298246c9b1e"
+  },
+  "nombre": "Kevin de Bruyne",
+  "posicion": "Mediocampista",
+  "equipo": "Bélgica"
+},
+{
+  "_id": {
+    "$oid": "655a72c769141298246c9b1f"
+  },
+  "nombre": "Adrien Rabiot",
+  "posicion": "Mediocampista",
+  "equipo": "Francia"
+}]
